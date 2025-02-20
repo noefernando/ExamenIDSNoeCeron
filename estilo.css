@@ -1,0 +1,19 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h2 {
+    text-align: center;
+}
+
+.list-group-item {
+    transition: background-color 0.3s ease;
+}
+
+.list-group-item:hover {
+    background-color: #e9ecef;
+}
+
+.text-decoration-line-through {
+    color: #6c757d !important;
+}
